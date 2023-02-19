@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-ffxivita",
+  "version": "0.2.3",
+  "description": "Eslint Configuration used by FFXIVITA",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffxivita/eslint-config-ffxivita.git"
+  },
+  "author": "FFXIVITA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffxivita/eslint-config-ffxivita/issues"
+  },
+  "homepage": "https://github.com/ffxivita/eslint-config-ffxivita#readme",
+  "peerDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
+
