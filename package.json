@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-ffxivita",
+  "name": "xivita-eslint-config",
   "version": "0.2.3",
   "description": "Eslint Configuration used by FFXIVITA",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ffxivita/eslint-config-ffxivita.git"
+    "url": "git+https://github.com/ffxivita/eslint-config.git"
   },
   "author": "FFXIVITA",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ffxivita/eslint-config-ffxivita/issues"
+    "url": "https://github.com/ffxivita/eslint-config/issues"
   },
-  "homepage": "https://github.com/ffxivita/eslint-config-ffxivita#readme",
+  "homepage": "https://github.com/ffxivita/eslint-configa#readme",
   "peerDependencies": {
     "eslint": "^7.21.0",
     "eslint-config-airbnb": "^18.2.1",
