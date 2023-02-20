@@ -1,6 +1,6 @@
 {
   "name": "xivita-eslint-config",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Eslint Configuration used by FFXIVITA",
   "main": "index.js",
   "scripts": {
@@ -16,17 +16,17 @@
     "url": "https://github.com/ffxivita/eslint-config/issues"
   },
   "homepage": "https://github.com/ffxivita/eslint-configa#readme",
-  "peerDependencies": {
-    "eslint": "^7.21.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
-    "eslint-plugin-react": "^7.21.5",
-    "eslint-plugin-react-hooks": "^4.2.0",
-    "@typescript-eslint/eslint-plugin": "^4.28.4"
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.42.1",
+    "@typescript-eslint/parser": "^5.42.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0"
   },
-  "devDependencies": {
-    "eslint": "^7.21.0"
+  "peerDependencies": {
+    "eslint": "^8.22.0"
   }
 }
 
